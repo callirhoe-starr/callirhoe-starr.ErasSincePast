@@ -14,7 +14,7 @@
         "surfaceGravity": 12
     },
     "Water":{
-        "size": 95
+        "size": 95.7
     },
     "Orbit": {
         "semiMajorAxis": 1300,
