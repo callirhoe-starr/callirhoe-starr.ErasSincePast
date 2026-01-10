@@ -13,6 +13,9 @@
         "surfaceSize": 100,
         "surfaceGravity": 12
     },
+    "Water":{
+        "size": 96
+    },
     "Orbit": {
         "semiMajorAxis": 1300,
         "primaryBody": "TIMBER_HEARTH",
