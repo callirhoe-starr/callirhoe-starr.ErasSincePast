@@ -4,13 +4,13 @@
     "starSystem": "SolarSystem",
     "HeightMap": {
         "minHeight": 80,
-        "maxHeight": 120,
+        "maxHeight": 110,
         "heightMap": "planets/assets/TestHeight.png",
         "textureMap": "planets/assets/TestColor.png"
     },
     "Base": {
-        "groundSize": 100,
-        "surfaceSize": 101,
+        "groundSize": 79,
+        "surfaceSize": 100,
         "surfaceGravity": 12
     },
     "Orbit": {
