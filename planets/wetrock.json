@@ -14,7 +14,7 @@
         "surfaceGravity": 12
     },
     "Water":{
-        "size": 96
+        "size": 95
     },
     "Orbit": {
         "semiMajorAxis": 1300,
@@ -32,7 +32,10 @@
         },
         "fogSize": 150,
         "fogDensity": 0.2,
-        "hasRain": true
+        "hasRain": true,
+        "hasOxygen": true,
+        "useAtmosphereShader": true,
+        "hasShockLayer": true
     },
     "MapMarker": {
         "enabled": true
