@@ -44,6 +44,7 @@
         "details": [
             {
                 "path": "Assets/Nomai Ruins/ExampleRuins.prefab",
+                "assetBundle": "assets/exampleruins",
                 "position": {"x": -9.894519, "y": 16.28314, "z": -93.13298},
                 "rotation": {"x": 19.50278, "y": 270.647, "z": 79.49739},
                 "scale": 1
