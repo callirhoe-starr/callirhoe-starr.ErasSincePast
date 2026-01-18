@@ -29,5 +29,20 @@
     },
     "MapMarker": {
         "enabled": true
+    },
+    "Volumes": {
+        "fluidVolumes": [
+            {
+                "layer": 0,
+                "priority": 20,
+                "type": "none",
+                "shape": {
+                    "type": "sphere",
+                    "radius": 10
+                },
+                "position": {"x": 15.05398, "y": -8.104843, "z": -78.1517},
+                "density": 0
+            }
+        ]
     }
 }
