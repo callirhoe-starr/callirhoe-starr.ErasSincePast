@@ -39,5 +39,15 @@
     },
     "MapMarker": {
         "enabled": true
+    },
+    "Props": {
+        "details": [
+            {
+                "path": "Assets/Nomai Ruins/ExampleRuins.prefab",
+                "position": {"x": 0, "y": 110, "z": 0},
+                "scale": 1,
+                "alignRadial": true
+            }
+        ]
     }
 }
